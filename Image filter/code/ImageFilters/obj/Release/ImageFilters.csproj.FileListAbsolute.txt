@@ -1,0 +1,54 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe.config
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ImageFilters.pdb
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ZedGraph.dll
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ZGraphTools.dll
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\bin\Release\ZGraphTools.pdb
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.Form1.resources
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.exe
+E:\Third Year\First Term\Algorithm\Sec\New folder (3)\ImageFilters\obj\Release\ImageFilters.pdb
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.pdb
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ZedGraph.dll
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ZGraphTools.dll
+D:\Algo\New folder (3)\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.exe
+D:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.pdb
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.Form1.resources
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.exe
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.pdb
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe.config
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.exe
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ImageFilters.pdb
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ZedGraph.dll
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ZGraphTools.dll
+E:\Algo\New folder (3)\ImageFilters\bin\Release\ZGraphTools.pdb
+E:\Algo\New folder (3)\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
